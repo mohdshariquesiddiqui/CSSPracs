@@ -1,0 +1,5 @@
+import 
+public class MD5 {
+	public static String getMD5(String args[])
+
+}
